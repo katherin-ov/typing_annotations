@@ -1,1 +1,2 @@
-## Typing
+## Typing annotations
+
